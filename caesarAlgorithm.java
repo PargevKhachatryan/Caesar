@@ -1,6 +1,6 @@
 import java.util.*;
 
-public class caesarAlgorithm {
+public class CaesarAlgorithm {
   Scanner scanner = new Scanner(System.in);
   char[] str;
   int num;
